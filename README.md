@@ -1,3 +1,3 @@
 ## React Tutorial for a Tic Tac Toe game
 
-[Check it...](https://stevd9.github.io/react-tic-tac-toe/)
+<a href="https://stevd9.github.io/react-tic-tac-toe/" target="_blank">Check it...</a>
